@@ -1,0 +1,9 @@
+/* calss名要加. 標籤名則不用 */
+button {
+  background: #003C9D;
+  border-radius: 15px;
+  font-size: 20px;
+  color: red;
+/*字體顏色只有color而不是font-color*/
+ 
+}
